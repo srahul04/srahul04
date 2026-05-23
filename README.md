@@ -10,8 +10,8 @@
 
 ## 🚀 About Me
 
-🎓 **Final-Year B.Tech CSE** @ Kalasalingam Academy (CGPA: 8.30/10)  
-🌏 **Exchange Student** @ National Chung Cheng University, Taiwan (87%)  
+🎓 **B.Tech CSE Graduate** @ Kalasalingam Academy (CGPA: 8.30/10)  
+🌏 **International Exchange Student** @ National Chung Cheng University, Taiwan (87%)  
 🔬 **Published Researcher** with 4 papers in Springer & IEEE  
 💼 Actively seeking **Full-Time Opportunities** in Software Development & Cybersecurity
 
