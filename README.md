@@ -4,7 +4,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rahul-s-699162291)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:rahulklu07@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://srahul04.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://srahul04.github.io/Rahul_Portfolio/)
 
 </div>
 
@@ -51,28 +51,28 @@ Firewalls | IDS/IPS | Cryptographic Systems
 
 ## 🏆 Featured Projects
 
-### 🎯 [HireSight](https://github.com/srahul04/HireSight)
+### 🎯 [HireSight](https://github.com/srahul04/HireSight---Mobile)
 **AI-Powered Recruitment Platform**  
 `React Native` `Supabase` `Groq AI` `Mission Admin Dashboard`
 - Intelligent job matching using LLM technology
 - Real-time candidate screening & evaluation
 - Role-based admin panel for recruitment management
 
-### 🎬 [CineCurator](https://github.com/srahul04/CineCurator)
+### 🎬 [CineCurator](https://github.com/srahul04/CineCurator-Complete-App)
 **Personalized Movie Discovery App**  
 `React Native` `Trakt API` `YouTube API` `TMDb`
 - Curated movie recommendations based on user preferences
 - Integrated trailer previews and ratings
 - Cross-platform mobile experience
 
-### 🔒 [SecuBrowse](https://github.com/srahul04/SecuBrowse)
+### 🔒 [SecuBrowse](https://github.com/srahul04/Unified-Extension-For-Safe-Browsing)
 **Malicious Website Detection Extension** | **📄 Published in Springer**  
 `Chrome Extension` `Gemini API` `JavaScript`
 - Real-time threat detection using AI
 - Behavioral analysis of web content
 - Proactive security warnings for users
 
-### 🔐 [Quantum-Resistant IAM](https://github.com/srahul04/Quantum-IAM)
+### 🔐 [Quantum-Resistant IAM](https://github.com/calebgunalan/quantum-resistant-iam-system)
 **Post-Quantum Security System** | **📄 Published in IEEE**  
 `Lattice-Based Cryptography` `RBAC` `MFA`
 - Future-proof authentication against quantum threats
