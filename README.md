@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Rahul Sangaramahalingam
+#  Rahul Sangaramahalingam
 ### Computer Science Engineer • Software Developer • Cybersecurity Researcher
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Building+secure%2C+scalable+software;Cybersecurity+%2B+AI+%2B+Mobile+Dev;Open+to+full-time+opportunities" alt="typing animation" />
