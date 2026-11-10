@@ -36,12 +36,12 @@
 
 | | Capability | Proof |
 |:-:|---|---|
-| 🔐 | **Build authentication and access control** with RBAC, MFA and TOTP | Quantum-Resistant IAM, Website Authenticator |
-| ⚛️ | **Apply post-quantum cryptographic primitives** inside a working enterprise system | IEEE, 2025 |
-| 🎣 | **Detect phishing and malicious sites** in the browser using behavior analysis and LLMs | SecuBrowse, Springer, 2026 |
-| 💽 | **Defend against and perform disk forensics**: block remote imaging, carve and recover deleted data on FAT32, NTFS, EXT4 | Anti-Remote Disk Imaging (IEEE, 2024), Recovery Framework |
-| 📡 | **Assess IoT devices and hosts** with CVE/NVD data and CVSS scoring, and report against NIST and ISO 27001 | IDSA, Hackhustle'25 Top 10 |
-| 📱 | **Ship cross-platform apps** with LLM features, from React Native front end to Supabase and AWS back end | HireSight, CineCurator |
+| $ | **Build authentication and access control** with RBAC, MFA and TOTP | Quantum-Resistant IAM, Website Authenticator |
+| $ | **Apply post-quantum cryptographic primitives** inside a working enterprise system | IEEE, 2025 |
+| $ | **Detect phishing and malicious sites** in the browser using behavior analysis and LLMs | SecuBrowse, Springer, 2026 |
+| $ | **Defend against and perform disk forensics**: block remote imaging, carve and recover deleted data on FAT32, NTFS, EXT4 | Anti-Remote Disk Imaging (IEEE, 2024), Recovery Framework |
+| $ | **Assess IoT devices and hosts** with CVE/NVD data and CVSS scoring, and report against NIST and ISO 27001 | IDSA, Hackhustle'25 Top 10 |
+| $ | **Ship cross-platform apps** with LLM features, from React Native front end to Supabase and AWS back end | HireSight, CineCurator |
 
 <br/>
 
